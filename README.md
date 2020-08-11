@@ -1,1 +1,1 @@
-This is my attempt at the first project on theodinproject of making a replica of the Google homepage. 
+This is my attempt at completing theodinproject's first project of making a replica of the Google search page.
